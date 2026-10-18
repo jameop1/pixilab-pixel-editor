@@ -12,4 +12,4 @@ A full-featured in-browser pixel art editor and sprite animator built with moder
 
 ## Getting Started
 
-Open `index.html` in any modern web browser.
+Open `index.html` in any modern web browser or try it on https://jameop1.github.io/pixilab-pixel-editor/
